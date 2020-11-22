@@ -8,5 +8,5 @@ public class welcome {
         greeting[2] = "and Gary Cornell";
         for (String g : greeting)
             System.out.println(g);
-    }
+   }
 }
