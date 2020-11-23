@@ -1,5 +1,7 @@
 package Class.Read;
 
+import java.util.*;
+
 public class read6 {
     public static void main(String[] args) {
         List<String> a = new LinkedList<String>();
