@@ -9,9 +9,9 @@ private String s[] = { " Who "," is ", " the ", " champion "," of ", "the ","Rus
 */
 package Class.Write;
 
-import java.nio.channels.spi.SelectorProvider;
+import java.nio.*;
 
-//import java.lang.Thread;
+import java.lang.Thread;
 
 class Ot extends Thread {
     private String[] s = new String[8];
